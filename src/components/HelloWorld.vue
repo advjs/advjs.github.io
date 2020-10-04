@@ -14,6 +14,9 @@
     <button class="zi-btn">Parser</button>
   </a>
   <h3 style="margin-top: 3rem">愿能在未来的冒险中，与你相遇</h3>
+  <a href="https://adv.yunyoujun.cn" target="_blank"
+    ><button class="zi-btn success">预览</button>
+  </a>
   <h3 style="margin-top: 2rem">开发中，敬请期待</h3>
   <h3>...</h3>
 </template>
