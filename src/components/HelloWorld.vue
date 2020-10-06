@@ -1,6 +1,7 @@
 <template>
   <h1>{{ msg }}</h1>
   <h2>面向未来前端的 ADV 文字冒险游戏引擎</h2>
+  <h3>{{ slogan }}</h3>
   <a href="https://adv.yunyoujun.cn/docs/" target="_blank">
     <button class="zi-btn">Docs</button>
   </a>
@@ -28,7 +29,9 @@ export default {
     msg: String,
   },
   data() {
-    return {};
+    return {
+      slogan: "像写小说一样制作 ADV",
+    };
   },
 };
 </script>

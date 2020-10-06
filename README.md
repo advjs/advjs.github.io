@@ -1,7 +1,7 @@
-# advjs.github.io
+# adv.js.org
 
 ![GitHub Pages](https://github.com/advjs/advjs.github.io/workflows/GitHub%20Pages/badge.svg)
 
-> adv.js.org
+> 像写小说一样制作 ADV。开发中……
 
-这是一个还在咕咕咕的主页。
+愿能在未来的冒险时间中与你相遇
